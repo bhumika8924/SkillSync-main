@@ -1,0 +1,17 @@
+{
+  "name": "skillsync-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Express and Socket.io backend for SkillSync demo data.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.8.3"
+  },
+  "license": "MIT"
+}

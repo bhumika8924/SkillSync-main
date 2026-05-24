@@ -1,0 +1,13 @@
+{
+  "name": "skillsync",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SkillSync demo app with separate frontend and backend folders.",
+  "scripts": {
+    "frontend": "npm --prefix frontend start",
+    "backend": "npm --prefix backend start",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix frontend test -- --watchAll=false"
+  },
+  "license": "MIT"
+}
