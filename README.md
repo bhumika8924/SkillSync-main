@@ -3,6 +3,7 @@
 SkillSync is a full-stack skill exchange platform built for students and professionals who want to learn by trading skills instead of paying for courses. Users can discover people by the skills they offer, connect with them, chat in real time, and schedule learning sessions.
 
 This repository is organized with separate frontend and backend folders so the project is easier to run, explain, and deploy.
+
 Live Demo: https://skillswap-4tg3.vercel.app/
 
 ## Key Features
